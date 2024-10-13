@@ -53,15 +53,3 @@ More languages can be added by expanding the dictionary in the code.
 3. Enter the text you want to translate in the input text box.
 4. Click on the **Translate** button.
 5. The translated text will appear in the output text box.
-
-## Screenshots
-
-![Translator GUI](screenshot.png)
-
-## Contributing
-
-Feel free to open issues or create pull requests if you have suggestions for improvements or want to add new features.
-
-## License
-
-This project is licensed under the MIT License.
