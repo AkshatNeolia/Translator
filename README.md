@@ -33,7 +33,7 @@ More languages can be added by expanding the dictionary in the code.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/translator-gui.git
+   git clone https://github.com/AkshatNeolia/translator-gui.git
    ```
 
 2. Install the required dependencies:
